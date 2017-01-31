@@ -81,6 +81,8 @@ namespace MyTeamCityTestToRun
 
             Report.Log(ReportLevel.Info, "User", "This is testing my app", new RecordItemIndex(0));
             
+            Report.Log(ReportLevel.Info, "User", "", new RecordItemIndex(1));
+            
         }
 
 #region Image Feature Data

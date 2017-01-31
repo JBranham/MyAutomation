@@ -37,6 +37,16 @@ mode="Global">
 			<comment/>
 			<bindings/>
 		</loggingrecorditem>
+		<loggingrecorditem
+		enabled="True"
+		optional="False"
+		searchpropertyid="dcfcd728-5d91-4fad-85e0-591be9a3e63f"
+		category="User"
+		message=""
+		reportlevel="Info;20">
+			<comment/>
+			<bindings/>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	name="MyTeamCityTestToRunRepository"
