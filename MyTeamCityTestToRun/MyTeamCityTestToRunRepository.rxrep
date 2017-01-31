@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="MyTeamCityTestToRunRepository"
+id="8ea30d28-b70b-46f5-bff3-30027485a18a"
+rxversion="6.2">
+  <codegen
+  classname="MyTeamCityTestToRunRepository"
+  namespace="MyTeamCityTestToRun"/>
+  <rootfolder
+  name="Root"
+  id="a4d94fdc-1aca-4dba-afb9-3228651674c3"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

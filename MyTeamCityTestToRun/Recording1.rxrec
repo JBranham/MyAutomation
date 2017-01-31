@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+rxversion="6.2"
+id="767b62f6-e4a3-4fbf-9254-1f596d6f99a2"
+embeddedrepository="False"
+mode="Global">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="MyTeamCityTestToRun"/>
+	<variables/>
+	<recorditems>
+		<loggingrecorditem
+		enabled="True"
+		optional="False"
+		searchpropertyid="bf7847cd-0381-493d-b247-89a12420f9a0"
+		category="User"
+		message="This is testing my app"
+		reportlevel="Info;20">
+			<comment/>
+			<bindings/>
+		</loggingrecorditem>
+	</recorditems>
+	<repository
+	name="MyTeamCityTestToRunRepository"
+	id="8ea30d28-b70b-46f5-bff3-30027485a18a"
+	rxversion="6.2"
+	relativepath="MyTeamCityTestToRunRepository.rxrep">
+		<codegen
+		classname="MyTeamCityTestToRunRepository"
+		namespace="MyTeamCityTestToRun"/>
+		<rootfolder
+		name="_rootdummy_"
+		id="a4d94fdc-1aca-4dba-afb9-3228651674c3"/>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references/>
+</recordtable>
