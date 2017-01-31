@@ -7,6 +7,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{75CD6EA9-3921-4E4C-85DD-8B9DF9FE268F}"
 	ProjectSection(SolutionItems) = postProject
 		Ranorex = .\Ranorex.rxsettings
+		MyTeamCityTestToRun.sln = MyTeamCityTestToRun.sln
 	EndProjectSection
 EndProject
 Global
