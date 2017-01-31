@@ -96,6 +96,22 @@
     <None Include="app.config">
       <id>19c7078f-52ab-4dd1-9caa-6b5aea944a85</id>
     </None>
+    <None Include="bin\Debug\MyTeamCityTestToRun.exe">
+      <id>5755a2be-437d-4335-aa69-7535fc05feb2</id>
+    </None>
+    <None Include="bin\Debug\MyTeamCityTestToRun.exe.config">
+      <id>d80c8ffe-84df-40dc-8d4a-210695e5abad</id>
+    </None>
+    <None Include="bin\Debug\MyTeamCityTestToRun.pdb">
+      <id>641c2ad9-bffd-48df-9fe4-4dc512d92096</id>
+    </None>
+    <None Include="bin\Debug\MyTeamCityTestToRun.rxtst">
+      <id>db7ef01e-b400-4226-ba84-bdcddc110148</id>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="bin\Debug\Ranorex.rxsettings">
+      <id>135cc02b-f196-4284-9dbe-ae2d4aaaec4c</id>
+    </None>
     <None Include="MyTeamCityTestToRunRepository.rximg">
       <BoundTo>e18b3210-4d73-4f06-b438-6160a04c7a37</BoundTo>
       <DependentUpon>MyTeamCityTestToRunRepository.rxrep</DependentUpon>
@@ -125,10 +141,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin">
-      <id>ad4c5252-53ba-4a52-9b16-4b1cfa05e346</id>
+      <id>3d35321f-b3a0-4451-af11-dd5972582d6d</id>
     </Folder>
     <Folder Include="bin\Debug">
-      <id>0f8e306a-58bf-458d-9eb2-a1d94790939d</id>
+      <id>9d2cc70f-a0ca-4cdf-8dd9-58a572bcb7a0</id>
     </Folder>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

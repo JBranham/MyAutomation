@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="6.2">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="MyTeamCityTestToRun"
+      id="9c320328-2d32-451a-be38-16b40191b95e"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="MyTeamCityTestToRun"
+      id="9c320328-2d32-451a-be38-16b40191b95e"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
